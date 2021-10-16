@@ -25,3 +25,5 @@
 </div>
  <hr>
   <a href="https://raw.githubusercontent.com/Patricia-Bandeira/Snake/main/github-contribution-grid-snake.svg"> Snake animation <a/>
+
+ ![Snake animation](https://github.com/Patricia-Bandeira/Patricia-Bandeira/blob/output/github-contribution-grid-snake.svg)
