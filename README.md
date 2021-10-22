@@ -1,4 +1,4 @@
-### Hello everyone!! Welcome to my profile <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I´m Patrícia!
+### Hello everyone!! Welcome to my profile <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> 
 <h6> <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+stalker!+My+name+is+Patricia!"></h6>
 <div>
   <a href="https://github.com/Patricia-Bandeira">
