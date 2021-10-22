@@ -1,5 +1,5 @@
-### Hello everyone!! Welcome to my profil <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I´m Patrícia!
-
+### Hello everyone!! Welcome to my profile <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I´m Patrícia!
+<h6> <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+stalker!+My+name+is+Patricia!"></h6>
 <div>
   <a href="https://github.com/Patricia-Bandeira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patricia-Bandeira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -32,3 +32,9 @@
   <a href="https://raw.githubusercontent.com/Patricia-Bandeira/Snake/main/github-contribution-grid-snake.svg"> Snake animation <a/>
 
  ![Snake animation](https://github.com/Patricia-Bandeira/Patricia-Bandeira/blob/output/github-contribution-grid-snake.svg)
+    
+    
+  #
+    
+ ##### <h3> Visitor Count: </h3>
+![Visitor Count](https://profile-counter.glitch.me/Patricia-Bandeira/count.svg)
