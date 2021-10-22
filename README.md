@@ -1,4 +1,4 @@
-### Hello everyone!! Welcome to my profile👋 I´m Patrícia!
+### Hello everyone!! Welcome to my profil <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I´m Patrícia!
 
 <div>
   <a href="https://github.com/Patricia-Bandeira">
